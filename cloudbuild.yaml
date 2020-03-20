@@ -18,4 +18,3 @@ steps:
   images:
   - 'gcr.io/$PROJECT_ID/docker-compose:latest'
   - 'gcr.io/$PROJECT_ID/docker-compose:1.24.0'
-  tags: ['cloud-builders-community']
